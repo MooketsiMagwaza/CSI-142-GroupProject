@@ -375,7 +375,7 @@ The `Console` class calls this when creating new entities and checks that the ge
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/MVMC4/CSI-142-GroupProject.git
+git clone https://github.com/MooketsiMagwaza/CSI-142-GroupProject.git
 cd CSI-142-GroupProject
 
 # 2. Compile all source files
@@ -449,4 +449,4 @@ Enter priority (LOW/MEDIUM/HIGH/CRITICAL): HIGH
 **Course:** CSI 142 — Introduction to Object-Oriented Programming  
 **Institution:** University of Botswana  
 **Submission:** Milestone 1 — 10 April 2026  
-**Repository:** [github.com/MVMC4/CSI-142-GroupProject](https://github.com/MVMC4/CSI-142-GroupProject)
+**Repository:** [github.com/MooketsiMagwaza/CSI-142-GroupProject](https://github.com/MooketsiMagwaza/CSI-142-GroupProject)
